@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajendraprasadcse22198
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning || DSA in C++ || Web Development ||
-- 💞️ I’m looking to collaborate on a project to protect environment.
+- 💞️ I’m looking to collaborate on a project focused on the current protect environment.
 - 📫 How to reach me rajendraprasadcse22198@gmail.com
 - 😄 My name : Rajendra Prasad
 - ⚡ Fun fact: I'm a good learner and animal lover too.
